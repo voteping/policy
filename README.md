@@ -26,7 +26,7 @@ to-do list of NTUSA
 	但日前基於「給分情形不適合公布」、「成績是學生個人隱私」等理由，教務處將存取該接口的權限改為教師限定。
 	直接導致 NTU Sweety Course 無法再取得上年度的成績分布資料。但課堂給分應該是可受公評的事項，
 	且成績分布也無法對應到個別學生，並不存在隱私疑慮，所以應該向教務處力爭重啟學生對該API的存取權限。
-	https://www.youtube.com/watch?v=cCxxUDu9p18
+[教育你的師長，和他們一同成長 - jserv](https://www.youtube.com/watch?v=cCxxUDu9p18)
 
 # 提升學生無線上網品質
 	提案者：陳品
